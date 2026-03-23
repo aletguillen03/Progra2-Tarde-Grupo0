@@ -22,8 +22,15 @@
 #### Franco Taus - <em>1165053</em> - Lic. en gestion de la tecnologia de la informacion
 > Estoy en mi segundo año de Licenciatura en Gestion de la Tecnología de la Información, de forma independiente estoy aprendiendo todo lo posible sobre DevOps y a utilizar programas como Jenkins, todavia no trabajo en nada relacionado al IT pero estoy interesado.
 
-## Actividad 1:
+## Clase 2:
+
+### Actividad 1:
 Desarrollamos un sistema para una guardia de un hospital de alta demanda. El sistema debe implementar un TDA de tipo Cola, asegurando asi que la atencion sea por orden de llegada, segun un sistema FIFO.
 
-## Actividad 2:
+### Actividad 2:
 Desarrollamos cada estrategia con ejemplos practicos, como si se trabajara con una pila de ropa desordenada.
+
+## Clase 3:
+
+### Guia de trabajos practicos:
+Resolvimos el Bloque 1, trabajando con Pilas para solucionar situaciones propuestas mediante un sistema LIFO - Last in first out
